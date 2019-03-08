@@ -33,3 +33,7 @@ Launch the editor by running below command
 ## MONGO DB SCREENSHOT
 
 ![mongodb](https://user-images.githubusercontent.com/19606332/54028795-3df34e00-41cc-11e9-9321-66b66ce891bb.JPG)
+
+## SWAGGER EDITOR
+
+![swaggereditor](https://user-images.githubusercontent.com/19606332/54028865-7b57db80-41cc-11e9-80aa-1a89a88b7922.JPG)
