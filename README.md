@@ -30,3 +30,6 @@ Launch the editor by running below command
 
 ![get](https://user-images.githubusercontent.com/19606332/54028702-f10f7780-41cb-11e9-98af-ec401821346e.JPG)
 
+## MONGO DB SCREENSHOT
+
+![mongodb](https://user-images.githubusercontent.com/19606332/54028795-3df34e00-41cc-11e9-9321-66b66ce891bb.JPG)
