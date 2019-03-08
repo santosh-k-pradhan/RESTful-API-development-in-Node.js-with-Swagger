@@ -1,7 +1,19 @@
 # Simple API generated using Swagger.
 
-This source is a partner to my blog article on how to make use of nodejs and swagger to create Api's.
+## First Step:
+Install the swagger globally
+npm install -g swagger
 
-[RESTFul Web API with Node.js and swagger](https://garywoodfine.com/restful-web-api-node-js/)
+## Second Step:
+npm install
+
+## Third Step:
+Start the app by running below command
+swagger project start
+
+## Fourth Step:
+Launch the editor by running below command
+swagger project edit
+
 
 
