@@ -15,6 +15,8 @@ Install the swagger globally
 Start the app by running below command
 
 #### swagger project start
+OR
+#### npm start
 
 ## Fourth Step:
 
