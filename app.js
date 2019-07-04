@@ -4,6 +4,9 @@ var SwaggerExpress = require('swagger-express-mw');
 var app = require('express')();
 var mongoose = require('mongoose');
 var bluebird = require('bluebird');
+var cors = require('cors');
+
+app.use(cors());
 
 module.exports = app; // for testing
 
