@@ -13,9 +13,15 @@ A cross-platform document-oriented database program. Classified as a NoSQL datab
 
 ### Supertest
 A library for unit testing.
+More Details - https://github.com/donpayne/tutorials/wiki/Integration-Testing-with-SuperTest
+               https://www.npmjs.com/package/supertest
 
 ### Should
 An assertion library
+More Details - https://www.npmjs.com/package/should
+
+### YAML
+YAML ("YAML Ain't Markup Language") is a human-readable data-serialization language. It is commonly used for configuration files, but could be used in many applications where data is being stored or transmitted.
 
 ## Steps to follow
 
