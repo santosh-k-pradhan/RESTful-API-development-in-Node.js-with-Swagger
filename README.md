@@ -1,28 +1,39 @@
-# Simple API generated using Swagger.
+# NODEJS REST API DEVELOPMENT.
 
-## First Step:
+## Technologies Used:
+### Swagger
+An open-source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful Web services.
 
-Install the swagger globally
+### ExpressJS
+Web application frameword for NodeJS.
 
+### MongoDB
+A cross-platform document-oriented database program. Classified as a NoSQL database program, which uses JSON-like documents with schema.
+
+### Supertest
+A library for unit testing.
+
+### Should
+An assertion library
+
+## Steps to follow
+
+### First Step: Install the swagger globally
 #### npm install -g swagger
 
-## Second Step:
-
+## Second Step: Insiall npm
 #### npm install
 
-## Third Step:
-
-Start the app by running below command
-
+## Third Step: Start the app by running below command
 #### swagger project start
 OR
 #### npm start
 
-## Fourth Step:
-
-Launch the editor by running below command
-
+## Fourth Step: Launch the editor by running below command
 #### swagger project edit
+
+## Fifth Step : Test the app by running below command (Note - While testing don't start the server though it will show the port issue)
+#### swagger project test
 
 ## POST API (http://127.0.0.1:10010/movies)
 
