@@ -3,6 +3,7 @@
 ## Technologies Used:
 ### Swagger
 An open-source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful Web services.
+More Details - https://github.com/swagger-api/swagger-node
 
 ### ExpressJS
 Web application frameword for NodeJS.
